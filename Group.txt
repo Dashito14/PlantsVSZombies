@@ -1,0 +1,6 @@
+Name 1: Daniel Ibáñez Padial
+Name 2: Álvaro Pascual Núñez
+Year: 2018
+
+For run the app: Need to put in arguments the level (easy, hard, insane). 
+For more info: run the application and use the h command for help.
